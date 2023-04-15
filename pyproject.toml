@@ -4,4 +4,4 @@ build-backed = "maturin"
 
 [project]
 name = "iso_tools"
-version = "0.1.0"  'up
+version = "0.1.0"
