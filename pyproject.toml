@@ -3,5 +3,5 @@ requires = ["maturin>=0.14,<0.15"]
 build-backed = "maturin"
 
 [project]
-name = "iso_tools"
+name = "iso_tool"
 version = "0.1.0"
