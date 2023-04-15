@@ -1,6 +1,6 @@
 [build-system]
 requires = ["maturin>=0.14,<0.15"]
-build-backed = "maturin"
+build-backend = "maturin"
 
 [project]
 name = "iso_tool"
