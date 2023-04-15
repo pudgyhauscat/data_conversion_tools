@@ -1,7 +1,7 @@
 [build-system]
-requires = ["maturin">=0.14]
+requires = ["maturin>=0.14"]
 build-backed = "maturin"
 
 [project]
 name = "iso_tools"
-version = "0.1.0"
+version = "0.1.0"  'up
